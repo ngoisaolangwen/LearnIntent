@@ -13,9 +13,9 @@
         android:text="@string/cong2so" />
 
     <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
+        android:id="@+id/btn_messager"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="Button" />
+        android:text="@string/messager" />
 
 </LinearLayout>

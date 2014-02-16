@@ -11,5 +11,6 @@
     <string name="b">Số B: </string>
     <string name="cong">Cộng</string>
     <string name="sendkq">Kết Quả</string>
+    <string name="messager">Messager</string>
 
 </resources>
